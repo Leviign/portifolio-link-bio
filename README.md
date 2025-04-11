@@ -1,5 +1,7 @@
 # Portfólio Link Bio
 
+![_C__portifolio_portifolio-link-bio_index html (1)](https://github.com/user-attachments/assets/6ad39455-fd4b-4b3a-a679-25050d69c1c2)
+
 ## Descrição
 
 Este projeto é uma página de links bio pessoal moderna e responsiva, criada com HTML, CSS e JavaScript. O site serve como um hub centralizado para apresentação profissional, exibindo informações pessoais, projetos, habilidades e meios de contato em um layout elegante e visualmente atraente.
